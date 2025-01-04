@@ -1,0 +1,1 @@
+This repository demonstrates a race condition bug in a simple PHP counter. The `bug.php` file shows the buggy code. The `bugSolution.php` file provides a solution using file locking to ensure atomicity.
